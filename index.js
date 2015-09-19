@@ -6,6 +6,7 @@ var srt2vtt = require('srt-to-vtt');
 
 console.log("\r\n");
 console.log('Simple Streamer | by : Eslam Hamouda (@EslaMx7) | www.eslamx.com');
+console.log('Project page on Github : https://github.com/EslaMx7/Simple-Streamer');
 
 var options = cliParser(process.argv);
 

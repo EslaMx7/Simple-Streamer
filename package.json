@@ -17,5 +17,8 @@
   "license": "MIT",
   "dependencies": {
     "srt-to-vtt": "^1.0.3"
+  },
+  "repository": {
+    "github": "https://github.com/EslaMx7/Simple-Streamer"
   }
 }
