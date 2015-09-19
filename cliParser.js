@@ -13,11 +13,7 @@ var cliParser = function (argv) {
 
 		switch (i) {
 			case 0: // Video File Name
-				if (opt == undefined || opt == "") {
-					console.log("please select the file you want to stream.");
-					process.exit(1); // Terminate Program.
-				}
-				else if (opt.toLowerCase().lastIndexOf(".mp4") == opt.length - 4) // Support .mp4 extension only.
+				if (opt.toLowerCase().lastIndexOf(".mp4") == opt.length - 4) // Support .mp4 extension only.
 					result.fileName = opt;
 				else {
 					console.log("(.mp4) file extension only supported.");
@@ -25,9 +21,7 @@ var cliParser = function (argv) {
 				}
 				break;
 			case 1: // Subtitle File Name (Optional)
-				if (opt == undefined)
-					result.subtitle = "";
-				else if (opt.toLowerCase().lastIndexOf(".vtt") == opt.length - 4) // Support .vtt extension.
+				if (opt.toLowerCase().lastIndexOf(".vtt") == opt.length - 4) // Support .vtt extension.
 					result.subtitle = opt;
 				else if (opt.toLowerCase().lastIndexOf(".srt") == opt.length - 4) // Support .srt extension.
 					result.subtitle = opt;
