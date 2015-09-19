@@ -1,0 +1,21 @@
+{
+  "name": "simple-streamer",
+  "version": "1.0.0",
+  "description": "do you want to stream a movie to your tablet\\phone? here you are a simple way for having fun.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "stream": "bin/simple-streamer"
+  },
+  "keywords": [
+    "simple",
+    "streamer"
+  ],
+  "author": "Eslam Hamouda",
+  "license": "MIT",
+  "dependencies": {
+    "srt-to-vtt": "^1.0.3"
+  }
+}
