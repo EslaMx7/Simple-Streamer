@@ -7,6 +7,7 @@ Do you have a movie you want to stream it locally to your tablet\phone with subt
 *requires Node.JS installed on your machine : [Download Page](https://nodejs.org/en/download/)*
 ```
 git clone https://github.com/EslaMx7/Simple-Streamer.git
+[OR Download ZIP file and extract it]
 cd Simple-Streamer
 npm install -g
 ```
