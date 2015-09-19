@@ -1,6 +1,8 @@
 # Simple-Streamer
 Do you have a movie you want to stream it locally to your tablet\phone with subtitles?... Here you are what i do
 
+#*=> [Watch Demo](https://copy.com/QdvqM64JAXCY/Simple-Streamer.mp4) <=*
+
 ![Simple Streamer Demo](demo.gif)
 
 # Installation
