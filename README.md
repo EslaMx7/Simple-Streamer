@@ -3,8 +3,6 @@ Do you have a movie you want to stream it locally to your tablet\phone with subt
 
 #*=> [Watch Demo](https://copy.com/QdvqM64JAXCY/Simple-Streamer.mp4) <=*
 
-![Simple Streamer Demo](https://i.imgur.com/2a3HsYq.gif)
-
 # Installation
 ```
 git clone https://github.com/EslaMx7/Simple-Streamer.git
