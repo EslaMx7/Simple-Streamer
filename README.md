@@ -4,6 +4,7 @@ Do you have a movie you want to stream it locally to your tablet\phone with subt
 #*=> [Watch Demo](https://copy.com/QdvqM64JAXCY/Simple-Streamer.mp4) <=*
 
 # Installation
+*requires Node.JS installed on your machine : [Download Page](https://nodejs.org/en/download/)*
 ```
 git clone https://github.com/EslaMx7/Simple-Streamer.git
 cd Simple-Streamer
