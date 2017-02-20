@@ -1,7 +1,7 @@
 # Simple-Streamer
 Do you have a movie you want to stream it locally to your tablet\phone with subtitles?... Here you are what i do
 
-#*=> [Watch Demo](https://cdn-e1.streamable.com/video/mp4/w8so.mp4?token=1480668158_95d35efd15d675202d47d9f809f6ef21348c6291) <=*
+#*=> [Watch Demo](https://streamable.com/video/w8so) <=*
 
 # Installation
 *requires Node.JS installed on your machine : [Download Page](https://nodejs.org/en/download/)*
